@@ -1,2 +1,2 @@
-# Thi is a Angular.js app
+# This is an Angular.js app
 ## TAsApp
